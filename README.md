@@ -32,7 +32,7 @@
 ---
 
 ## 📫 How to Reach Me  
-- ✉️ Email: **asllyz2610@gmail.com**  
+- ✉️ Email: **asllyz26@gmail.com**  
 - 🌐 GitHub: **AsllyZuniga**  
 - 📌 Currently at: **Colombia, San Juan de Pasto**
 
