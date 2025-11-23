@@ -21,6 +21,7 @@
 ### 🛠️ Tools, Databases & Others  
 <img src="https://skillicons.dev/icons?i=git,github,postgres,arduino,vscode,nodejs" />
 
+---
 
 ## 📊 GitHub Stats  
 > Replace `AsllyZuniga` with your exact username if needed.
