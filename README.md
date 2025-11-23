@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Aslly Zuñiga 👋  
+### You can call me **Ash** ✨  
+### I'm a Systems Engineering Student and a passionate Developer 💻🚀  
 
-<!--
-**AsllyZuniga/AsllyZuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me  
+- 🇨🇴 From San Juan de Pasto, Colombia  
+- 🎓 Studying **Ingeniería de Sistemas**  
+- 📸 I love taking pictures of **nature**  
+- 💛 Passionate about creating real, useful projects  
+- 💬 Always learning and building new things  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools I Use
+
+### 💡 Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" />
+
+### 🛠️ Tools, Databases & Others  
+<img src="https://skillicons.dev/icons?i=git,github,postgres,arduino,vscode,nodejs" />
+
+
+## 📊 GitHub Stats  
+> Replace `AsllyZuniga` with your exact username if needed.
+
+![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsllyZuniga&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsllyZuniga&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to Reach Me  
+- ✉️ Email: **asllyz2610@gmail.com**  
+- 🌐 GitHub: **AsllyZuniga**  
+- 📌 Currently at: **Colombia, San Juan de Pasto**
+
+---
+
+## ✨ Fun Fact  
+I love taking pictures of nature — it reminds me of the beauty behind every detail 🌿📷  
+
