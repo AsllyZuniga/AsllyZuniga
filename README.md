@@ -16,7 +16,7 @@
 ## 🚀 Technologies & Tools I Use
 
 ### 💡 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart, express, stencil" />
 
 ### 🛠️ Tools, Databases & Others  
 <img src="https://skillicons.dev/icons?i=git,github,postgres,arduino,vscode,nodejs" />
@@ -24,9 +24,8 @@
 ---
 
 ## 📊 GitHub Stats  
-> Replace `AsllyZuniga` with your exact username if needed.
 
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsllyZuniga&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsllyZuniga&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsllyZuniga&layout=compact&theme=tokyonight)
 
