@@ -15,27 +15,39 @@
 
 🚀 Tech Stack
 ---
+
 🎨 Frontend
+
 ---
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,stencil" />
+
 ---
 ⚙️ Backend
+
 ---
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
+
 ---
 🧩 ORM & Data Layer
+
 ---
 TypeORM
+
 ---
 🗄️ Databases
+
 ---
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+
 ---
 📱 Mobile
+
 ---
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
+
 ---
 🛠️ Version Control
+
 ---
 <img src="https://skillicons.dev/icons?i=git,github" />
 
