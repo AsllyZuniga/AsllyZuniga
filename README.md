@@ -13,13 +13,17 @@
 
 ---
 
-## 🚀 Technologies & Tools I Use
-
-### 💡 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,express,stencil" />
-
-### 🛠️ Tools, Databases & Others  
-<img src="https://skillicons.dev/icons?i=git,github,postgres,arduino,vscode,nodejs" />
+🚀 Technologies & Tools
+🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,stencil" />
+⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres" />
+🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 
 ---
 
