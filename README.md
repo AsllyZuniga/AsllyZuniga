@@ -13,25 +13,31 @@
 
 ---
 
-🚀 Technologies & Tools
-🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,stencil" />
-⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres" />
-🛠️ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-
+🚀 Tech Stack
 ---
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsllyZuniga&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsllyZuniga&layout=compact&theme=tokyonight)
+🎨 Frontend
+---
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,stencil" />
+---
+⚙️ Backend
+---
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
+---
+🧩 ORM & Data Layer
+---
+TypeORM
+---
+🗄️ Databases
+---
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+---
+📱 Mobile
+---
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+---
+🛠️ Version Control
+---
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
 
